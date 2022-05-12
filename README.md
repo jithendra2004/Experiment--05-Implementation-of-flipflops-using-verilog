@@ -144,7 +144,7 @@ endmodule
 
 ### TIMING DIGRAMS FOR FLIP FLOPS 
 
-![output](sr timing.png)
+![output](1.png)
 ### PROGRAM 2:
 ```
 Program for flipflops  and verify its truth table in quartus using Verilog programming.
@@ -169,7 +169,7 @@ endmodule
 ![output](jk.png)
 ### TIMING DIGRAMS FOR FLIP FLOPS 
 
-![output](jk timing.png)
+![output](2.png)
 
 ### PROGRAM 3:
 ```
@@ -197,7 +197,7 @@ endmodule
 
 ### TIMING DIGRAMS FOR FLIP FLOPS 
 
-![output](df timing.png)
+![output](3.png)
 
 
 ### PROGRAM 4:
@@ -223,7 +223,7 @@ endmodule
 
 ### TIMING DIGRAMS FOR FLIP FLOPS 
 
-![output](tf timing.png)
+![output](4.png)
 
 
 ### RESULTS 
